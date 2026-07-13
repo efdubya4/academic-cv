@@ -1,1 +1,1 @@
-<!-- TODO: add headshot avatar image here if needed by theme -->
+Author avatar: authors/me.jpg

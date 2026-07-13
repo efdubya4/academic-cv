@@ -63,7 +63,7 @@ sections:
         - Regional Teen President — Jack and Jill of America
         - Kappa League President / Junior Advisor
         - Howard Alternative Spring Break — youth empowerment & gun violence prevention (Milwaukee)
-        - **1st place**, Cyberthon Pensacola (high school division — cybersecurity / threat detection)
+        - **1st place**, Cyberthon Pensacola (Fall 2018, high school division — cybersecurity / threat detection)
     design:
       columns: '1'
   - block: markdown

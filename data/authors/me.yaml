@@ -19,7 +19,6 @@ bio: |
   building systems that serve real communities, from HBCU STEM mentorship to
   safety-focused applications.
 
-  <!-- TODO: add headshot (avatar) for this profile -->
   <!-- TODO: upload CV PDF to static/uploads/resume.pdf -->
 
 affiliations:
@@ -64,7 +63,7 @@ education:
 experience:
   - role: Founder & CEO
     org: Oval Technology Solutions
-    start: 2025-06-01  # Summer 2025–present (per resume)
+    start: 2025-06-01  # Summer 2025–present
     summary: |
       Web development, cybersecurity consulting, and AI solutions for enterprise
       clients. Concurrently serving as a cybersecurity infrastructure contractor
@@ -76,43 +75,41 @@ experience:
 
   - role: Cybersecurity Infrastructure Contractor
     org: Cyberup24
-    start: 2025-06-01  # <!-- TODO: confirm exact start if different from Oval -->
+    start: 2025-06-01  # Concurrent with Oval (Summer 2025–present)
     summary: |
       Cybersecurity infrastructure contracting concurrent with Oval Technology
       Solutions — DevSecOps practices and enterprise compliance.
 
   - role: Web Dev / Test Engineer Intern
     org: Dewberry — Resilience Solutions
-    # <!-- TODO: add exact start/end dates and location from resume -->
-    start: 2024-01-01
+    start: 2024-06-01  # Summer 2024
+    end: 2024-12-31    # Fall 2024
     summary: |
       Built a Benefit Cost Analysis tool for natural hazard mitigation. Tested
-      flood forecasting software beta releases.
-      <!-- TODO: replace placeholder start date with resume-accurate dates -->
-
-  - role: Power Delivery Technology Intern
-    org: Alabama Power Company
-    # <!-- TODO: add exact start/end dates from resume -->
-    start: 2023-01-01
-    summary: |
-      Supported an RSA rollout project and FISR system data work.
-      <!-- TODO: replace placeholder start date with resume-accurate dates -->
+      flood forecasting software beta releases. (Summer–Fall 2024)
 
   - role: Data Validation
     org: Bitmari (Harare, Zimbabwe)
-    # <!-- TODO: add exact start/end dates from resume -->
-    start: 2022-01-01
+    start: 2023-06-01  # Summer 2023
+    end: 2023-12-31    # Fall 2023
     summary: |
       Data validation for the ILoveBlackPeople Safe Places app and the Greenbook API.
-      <!-- TODO: replace placeholder start date with resume-accurate dates -->
+      (Summer–Fall 2023)
+
+  - role: Power Delivery Technology Intern
+    org: Alabama Power Company
+    start: 2023-06-01  # Summer 2023
+    end: 2023-08-31
+    summary: |
+      Supported an RSA rollout project and FISR system data work. (Summer 2023)
 
   - role: QA & Swift Instruction
     org: Apple × Ed Farm
-    start: 2021-01-01
-    end: 2022-12-31
+    start: 2021-06-01  # Summer 2021
+    end: 2022-08-31    # Summer 2022
     summary: |
       Quality assurance for Ed Farm Learn's launch. Taught Swift Code to middle
-      and high school students.
+      and high school students. (Summers 2021 and 2022)
 
 skills:
   - name: Languages
@@ -153,9 +150,8 @@ languages:
 awards:
   - title: 1st Place — Cyberthon Pensacola (High School Division)
     awarder: Cyberthon Pensacola
-    # <!-- TODO: confirm date from resume -->
-    date: "2018-01-01"
-    summary: "Cybersecurity / threat detection competition. <!-- TODO: confirm year -->"
+    date: "2018-09-01"  # Fall 2018
+    summary: Cybersecurity / threat detection competition (Fall 2018).
     icon: hero/trophy
   - title: Engineering Mentor
     awarder: Howard University — College of Engineering and Architecture
