@@ -36,17 +36,18 @@ Site config lives under `config/_default/`. Author profile / resume data: `data/
 | Projects | `content/projects/*/index.md` |
 | Site name / colors / SEO | `config/_default/params.yaml` |
 | Nav links | `config/_default/menus.yaml` |
+| Downloadable CV PDF | `static/uploads/resume.pdf` |
 | Deploy host | `hugoblox.yaml` (`deploy.host: github-pages`) |
 
 ## TODOs for you
 
-Search the repo for `<!-- TODO` — key gaps:
+Search the repo for `<!-- TODO` — remaining gaps:
 
-- Headshot / avatar image
-- `static/uploads/resume.pdf` (homepage “Download CV” button)
-- Exact internship dates (Dewberry, Alabama Power, Bitmari)
-- Project demo/repo links
+- Exact internship details you still want to refine
+- Project demo/repo links (where still placeholder)
 - Portfolio URL and Twitter/X (optional)
+
+Replace `static/uploads/resume.pdf` anytime to update the Download CV button.
 
 ## Deployment
 

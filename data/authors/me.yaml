@@ -19,8 +19,6 @@ bio: |
   building systems that serve real communities, from HBCU STEM mentorship to
   safety-focused applications.
 
-  <!-- TODO: upload CV PDF to static/uploads/resume.pdf -->
-
 affiliations:
   - name: Howard University
     url: https://home.howard.edu/
@@ -66,19 +64,20 @@ experience:
     start: 2025-06-01  # Summer 2025–present
     summary: |
       Web development, cybersecurity consulting, and AI solutions for enterprise
-      clients. Concurrently serving as a cybersecurity infrastructure contractor
-      at Cyberup24 (DevSecOps practices, enterprise compliance).
+      clients. Concurrently served as a cybersecurity infrastructure contractor
+      at Cyberup24 through Summer 2025 (DevSecOps practices, enterprise compliance).
     button:
-      text: View GitHub
-      url: https://github.com/efdubya4
-      icon: brands/github
+      text: Download CV
+      url: /uploads/resume.pdf
+      icon: hero/arrow-down-tray
 
   - role: Cybersecurity Infrastructure Contractor
     org: Cyberup24
-    start: 2025-06-01  # Concurrent with Oval (Summer 2025–present)
+    start: 2025-06-01  # Summer 2025
+    end: 2025-08-31    # Ended after Summer 2025
     summary: |
       Cybersecurity infrastructure contracting concurrent with Oval Technology
-      Solutions — DevSecOps practices and enterprise compliance.
+      Solutions — DevSecOps practices and enterprise compliance. (Summer 2025)
 
   - role: Web Dev / Test Engineer Intern
     org: Dewberry — Resilience Solutions

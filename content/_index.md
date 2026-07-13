@@ -11,7 +11,7 @@ sections:
       text: ''
       button:
         text: Download CV
-        url: uploads/resume.pdf  # <!-- TODO: add static/uploads/resume.pdf -->
+        url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
